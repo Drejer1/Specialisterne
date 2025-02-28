@@ -7,7 +7,7 @@ class Calculator:
         self.current_val = 0
         self.inp = ""
         self.ops = []
-        print("Calculator initilized \nPlease uses spaces between operands and operations [+,-,*,/,^,sqrt]\nThe Calculator does not follow PEMDAS and using squareroot will wipe and previous value")
+        print("Calculator initilized \nPlease use spaces between operands and operations [+,-,*,/,^,sqrt]\nThe Calculator does not follow PEMDAS and using squareroot will wipe any previous value")
         self.running = True
             
         
