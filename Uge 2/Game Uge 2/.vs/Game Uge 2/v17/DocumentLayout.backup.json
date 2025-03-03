@@ -1,18 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne\\Uge 2\\Game Uge 2\\",
+  "WorkspaceRootPath": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne2\\Uge 2\\Game Uge 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBAF7CA9-03EC-4C73-B4A4-86FAAA0A3EC7}|game\\game.csproj|c:\\users\\a-spac10\\documents\\github\\specialisterne\\uge 2\\game uge 2\\game\\models\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBAF7CA9-03EC-4C73-B4A4-86FAAA0A3EC7}|game\\game.csproj|c:\\users\\a-spac10\\documents\\github\\specialisterne2\\uge 2\\game uge 2\\game\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBAF7CA9-03EC-4C73-B4A4-86FAAA0A3EC7}|game\\game.csproj|solutionrelative:game\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBAF7CA9-03EC-4C73-B4A4-86FAAA0A3EC7}|game\\game.csproj|c:\\users\\a-spac10\\documents\\github\\specialisterne2\\uge 2\\game uge 2\\game\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBAF7CA9-03EC-4C73-B4A4-86FAAA0A3EC7}|game\\game.csproj|solutionrelative:game\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBAF7CA9-03EC-4C73-B4A4-86FAAA0A3EC7}|game\\game.csproj|c:\\users\\a-spac10\\documents\\github\\specialisterne2\\uge 2\\game uge 2\\game\\models\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBAF7CA9-03EC-4C73-B4A4-86FAAA0A3EC7}|game\\game.csproj|solutionrelative:game\\models\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBAF7CA9-03EC-4C73-B4A4-86FAAA0A3EC7}|game\\game.csproj|c:\\users\\a-spac10\\documents\\github\\specialisterne\\uge 2\\game uge 2\\game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBAF7CA9-03EC-4C73-B4A4-86FAAA0A3EC7}|game\\game.csproj|c:\\users\\a-spac10\\documents\\github\\specialisterne2\\uge 2\\game uge 2\\game\\models\\iparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBAF7CA9-03EC-4C73-B4A4-86FAAA0A3EC7}|game\\game.csproj|solutionrelative:game\\models\\iparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBAF7CA9-03EC-4C73-B4A4-86FAAA0A3EC7}|game\\game.csproj|c:\\users\\a-spac10\\documents\\github\\specialisterne2\\uge 2\\game uge 2\\game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBAF7CA9-03EC-4C73-B4A4-86FAAA0A3EC7}|game\\game.csproj|solutionrelative:game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBAF7CA9-03EC-4C73-B4A4-86FAAA0A3EC7}|game\\game.csproj|c:\\users\\a-spac10\\documents\\github\\specialisterne\\uge 2\\game uge 2\\game\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBAF7CA9-03EC-4C73-B4A4-86FAAA0A3EC7}|game\\game.csproj|c:\\users\\a-spac10\\documents\\github\\specialisterne2\\uge 2\\game uge 2\\game\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBAF7CA9-03EC-4C73-B4A4-86FAAA0A3EC7}|game\\game.csproj|solutionrelative:game\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBAF7CA9-03EC-4C73-B4A4-86FAAA0A3EC7}|game\\game.csproj|c:\\users\\a-spac10\\documents\\github\\specialisterne2\\uge 2\\game uge 2\\game\\models\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBAF7CA9-03EC-4C73-B4A4-86FAAA0A3EC7}|game\\game.csproj|solutionrelative:game\\models\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlackJack.cs",
+              "DocumentMoniker": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne2\\Uge 2\\Game Uge 2\\game\\BlackJack.cs",
+              "RelativeDocumentMoniker": "game\\BlackJack.cs",
+              "ToolTip": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne2\\Uge 2\\Game Uge 2\\game\\BlackJack.cs",
+              "RelativeToolTip": "game\\BlackJack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:17:07.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne2\\Uge 2\\Game Uge 2\\game\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "game\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne2\\Uge 2\\Game Uge 2\\game\\Models\\Player.cs",
+              "RelativeToolTip": "game\\Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:37:32.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne2\\Uge 2\\Game Uge 2\\game\\Models\\Deck.cs",
+              "RelativeDocumentMoniker": "game\\Models\\Deck.cs",
+              "ToolTip": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne2\\Uge 2\\Game Uge 2\\game\\Models\\Deck.cs",
+              "RelativeToolTip": "game\\Models\\Deck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:20:45.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IParticipant.cs",
+              "DocumentMoniker": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne2\\Uge 2\\Game Uge 2\\game\\Models\\IParticipant.cs",
+              "RelativeDocumentMoniker": "game\\Models\\IParticipant.cs",
+              "ToolTip": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne2\\Uge 2\\Game Uge 2\\game\\Models\\IParticipant.cs",
+              "RelativeToolTip": "game\\Models\\IParticipant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:18:57.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Dealer.cs",
-              "DocumentMoniker": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne\\Uge 2\\Game Uge 2\\game\\Models\\Dealer.cs",
+              "DocumentMoniker": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne2\\Uge 2\\Game Uge 2\\game\\Models\\Dealer.cs",
               "RelativeDocumentMoniker": "game\\Models\\Dealer.cs",
-              "ToolTip": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne\\Uge 2\\Game Uge 2\\game\\Models\\Dealer.cs",
+              "ToolTip": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne2\\Uge 2\\Game Uge 2\\game\\Models\\Dealer.cs",
               "RelativeToolTip": "game\\Models\\Dealer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T12:13:24.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Card.cs",
-              "DocumentMoniker": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne\\Uge 2\\Game Uge 2\\game\\Models\\Card.cs",
+              "DocumentMoniker": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne2\\Uge 2\\Game Uge 2\\game\\Models\\Card.cs",
               "RelativeDocumentMoniker": "game\\Models\\Card.cs",
-              "ToolTip": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne\\Uge 2\\Game Uge 2\\game\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne2\\Uge 2\\Game Uge 2\\game\\Models\\Card.cs",
               "RelativeToolTip": "game\\Models\\Card.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T09:43:06.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne\\Uge 2\\Game Uge 2\\game\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne2\\Uge 2\\Game Uge 2\\game\\Program.cs",
               "RelativeDocumentMoniker": "game\\Program.cs",
-              "ToolTip": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne\\Uge 2\\Game Uge 2\\game\\Program.cs",
+              "ToolTip": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\Specialisterne2\\Uge 2\\Game Uge 2\\game\\Program.cs",
               "RelativeToolTip": "game\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T08:21:11.751Z",
               "EditorCaption": ""

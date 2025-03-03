@@ -9,14 +9,20 @@ namespace game.Models
     public class Card
     {
 
-        private Tuple<string, string> values;  
-        public Card(string color, string value)
+        private Tuple<string, string> values;
+        private string color;
+        private string number;
+        public Card(string _color, string _number)
         {
-            values = new Tuple<string, string>(color, value);
+            values = new Tuple<string, string>(_color, _number);
+            color = _color;
+            number = _number;
         }
         public Tuple<string, string> Values
         {
             get { return values; }
         }
+        public string Color { get { return color; } }
+        public string Number { get { return number; } }
     }
 }

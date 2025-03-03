@@ -4,15 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace game.Models
+namespace game
 {
-    interface IParticipant
+    class BlackJack
     {
-        public void drawUntil17()
-        {
-            while()
-        }
         
-
     }
 }

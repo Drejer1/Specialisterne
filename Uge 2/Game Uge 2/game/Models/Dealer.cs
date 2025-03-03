@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace game.Models
 {
-    class Dealer : IParticipant
+    class Dealer : Player
     {
-        public void drawCard()
+        
+        public void drawUntil17()
         {
             
         }
+
+
     }
 }
