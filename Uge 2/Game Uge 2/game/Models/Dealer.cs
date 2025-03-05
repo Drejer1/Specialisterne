@@ -6,14 +6,27 @@ using System.Threading.Tasks;
 
 namespace game.Models
 {
-    class Dealer : Player
+    public class Dealer : Player
     {
-        
-        public void drawUntil17()
+        public Dealer(string name) : base(name)
         {
-            
+
         }
-
-
+        
+        /*public void drawUntil17(Deck deck)
+        {
+            if (this.Points < 17)
+            {
+                
+                
+            }
+        }*/
+        public Card showOneCard() {
+            return Hand[0];
+        }
+        public int pointsOfOneCard()
+        {
+            return pointSystem[Hand[0].Number];
+        }
     }
 }

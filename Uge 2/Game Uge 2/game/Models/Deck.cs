@@ -21,11 +21,11 @@ public class Deck
 		{
 			foreach(string value in values)
 			{
-				cards.Add(new Card(color,value));
+				Standarddeck.Add(new Card(color,value));
                 
             }
 		}
-		Console.WriteLine(cards.Count());
+		cards = new List<Card>(Standarddeck);
 	}
 
 	public void shuffleDeck()
@@ -40,11 +40,11 @@ public class Deck
             cards[n] = temp;
         }
     }
-	public Card hit()
+	public void hit(Player player)
 	{
 		Card draw = cards[0];
 		cards.RemoveAt(0);
-		return draw;
+		player.drawCard(draw);	
 	}
 	public void resetDeck()
 	{

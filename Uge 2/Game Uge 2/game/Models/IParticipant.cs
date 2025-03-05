@@ -10,7 +10,7 @@ namespace game.Models
     {
         public void drawUntil17()
         {
-            while()
+            
         }
         
 
